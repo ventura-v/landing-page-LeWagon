@@ -2,4 +2,4 @@
 
 Landing Page from the Le Wagon Programing For All project, using HTML and CSS.
 
-![](pitch.gif)
+![(pitch.gif)](https://www.google.com)
