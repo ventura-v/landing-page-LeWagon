@@ -1,4 +1,4 @@
-# landing-page-LeWagon
+# LeWagon Landing Page
 
 Landing Page from the Le Wagon Programing For All project, using HTML and CSS.
 
